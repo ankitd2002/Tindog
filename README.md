@@ -1,1 +1,1 @@
-# Tindog--A-website-about-finding-dogs
+# Tindog
